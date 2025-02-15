@@ -9,6 +9,9 @@
 - **Inventory System**: Collect items and use them to progress.
 - **Multiple Choices**: Make decisions that affect the outcome of the game.
 
+## Screenshot
+![Game Screenshot](screenshot.png)
+
 ## Installation
 
 ### Prerequisites
